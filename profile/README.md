@@ -12,9 +12,9 @@ Overall, OpenPRD is paving the way for a more efficient and effective hiring pro
 
 ### The structure of a OpenPRD formated .prd file.
 
-|-- resume.prd \n
-    |- desrcibe.json
-    |- main_doc.body
-    |- resources/
-       |- main_doc.style
+|-- resume.prd\ 
+    |- desrcibe.json\
+    |- main_doc.body\
+    |- resources/\
+       |- main_doc.style\
           
