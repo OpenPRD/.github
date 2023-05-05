@@ -13,6 +13,9 @@ Overall, OpenPRD is paving the way for a more efficient and effective hiring pro
 ### The contents of a OpenPRD packaged .prd file.
 
 desrcibe.json   ---- Acts as a header for the document, contains a description of document type, version and resource declaration.\
+\
 document.body   ---- Contains the main body of the document in HTML style tags with microdata tags\
+\
 document.style  ---- Stylesheet in css\
+\
 resources/      ---- The resources directory contains any resource files such as: imgs, logos, icons, or fonts <b>Note</b> this should be used carefully; a prd document should be lightweight. (possible future prx (portable resume experience) format for people with a need for a portable portfolio - graphical designers, UX/UI engineers)
