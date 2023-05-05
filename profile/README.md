@@ -9,3 +9,12 @@ OpenPRD is a set of standards and open source tools to make resume data portable
 OpenPRD is committed to promoting transparency and openness in resume data management. The organization believes that the standardization of resume data will help to break down barriers and biases in the hiring process, making it more equitable and accessible for everyone.
 
 Overall, OpenPRD is paving the way for a more efficient and effective hiring process, with the potential to transform the job market for the better.
+
+### The structure of a OpenPRD formated .prd file.
+
+|- resume.prd 
+   |- desrcibe.json
+   |- main_doc.body
+   |- resources/
+      |- main_doc.style
+          
