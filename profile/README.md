@@ -10,11 +10,9 @@ OpenPRD is committed to promoting transparency and openness in resume data manag
 
 Overall, OpenPRD is paving the way for a more efficient and effective hiring process, with the potential to transform the job market for the better.
 
-### The structure of a OpenPRD formated .prd file.
+### The contents of a OpenPRD packaged .prd file.
 
--- resume.prd\
-        -- desrcibe.json\
-    -- main_doc.body\
-    -- resources/\
-        --- main_doc.style
-          
+desrcibe.json   ---- Acts as a header for the document, contains a description of data type, version and resource naming.
+document.body   ---- Contains the main body of the document in HTML style tags with microdata tags
+document.style  ---- Stylesheet in css
+resources/      ---- The resources directory contains any resource files such as: imgs, logos, icons, or fonts <b>Note</b> this
