@@ -12,7 +12,7 @@ Overall, OpenPRD is paving the way for a more efficient and effective hiring pro
 
 ### The contents of a OpenPRD packaged .prd file.
 
-desrcibe.json   ---- Acts as a header for the document, contains a description of data type, version and resource naming.
-document.body   ---- Contains the main body of the document in HTML style tags with microdata tags
-document.style  ---- Stylesheet in css
+desrcibe.json   ---- Acts as a header for the document, contains a description of data type, version and resource naming.\
+document.body   ---- Contains the main body of the document in HTML style tags with microdata tags\
+document.style  ---- Stylesheet in css\
 resources/      ---- The resources directory contains any resource files such as: imgs, logos, icons, or fonts <b>Note</b> this
