@@ -15,6 +15,6 @@ Overall, OpenPRD is paving the way for a more efficient and effective hiring pro
 -- resume.prd\
     -- desrcibe.json\
     -- main_doc.body\
-    -- resources/
-       --- main_doc.style
+    -- resources/\
+        --- main_doc.style
           
